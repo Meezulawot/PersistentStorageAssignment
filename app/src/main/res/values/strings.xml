@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PersistentStorageAssignment</string>
+    <string name="title">Note Title</string>
+    <string name="description">Description</string>
+    <string name="add_note">Add Note</string>
+    <string name="save">Save</string>
+</resources>
